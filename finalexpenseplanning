@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Final Expense Planning</title>
+<style>
+body {
+margin: 0;
+font-family: Arial, sans-serif;
+background: #0b3d91;
+color: white;
+display: flex;
+align-items: center;
+justify-content: center;
+height: 100vh;
+text-align: center;
+}
+
+.container {
+max-width: 500px;
+padding: 20px;
+}
+
+h1 {
+font-size: 32px;
+margin-bottom: 15px;
+}
+
+p {
+font-size: 18px;
+margin-bottom: 20px;
+line-height: 1.5;
+}
+
+.highlight {
+color: #ffd700;
+font-weight: bold;
+}
+
+.footer {
+font-size: 14px;
+opacity: 0.8;
+margin-top: 20px;
+}
+</style>
+</head>
+<body>
+<div class="container">
+<h1>You're All Set ✅</h1>
+
+<p>
+A licensed agent will be calling you shortly to review your options.
+</p>
+
+<p class="highlight">
+Please keep your phone nearby and answer the call.
+</p>
+
+<p class="footer">
+No obligation. This call is to review the options you qualify for.
+</p>
+</div>
+</body>
+</html>
