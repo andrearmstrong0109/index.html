@@ -3,63 +3,156 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Final Expense Planning</title>
+<title>Final Expense Planning Assistance</title>
+
 <style>
 body {
 margin: 0;
 font-family: Arial, sans-serif;
-background: #0b3d91;
-color: white;
-display: flex;
-align-items: center;
-justify-content: center;
-height: 100vh;
-text-align: center;
+background: #f5f7fa;
+color: #1f2937;
+line-height: 1.6;
 }
-
 .container {
-max-width: 500px;
-padding: 20px;
+max-width: 850px;
+margin: 0 auto;
+padding: 40px 20px;
 }
-
-h1 {
-font-size: 32px;
-margin-bottom: 15px;
+.card {
+background: #fff;
+padding: 36px;
+border-radius: 14px;
+box-shadow: 0 8px 24px rgba(0,0,0,0.08);
 }
-
-p {
-font-size: 18px;
-margin-bottom: 20px;
-line-height: 1.5;
+h1, h2 {
+color: #111827;
 }
-
 .highlight {
-color: #ffd700;
-font-weight: bold;
+background: #eef6ff;
+border-left: 5px solid #2563eb;
+padding: 16px;
+margin: 20px 0;
 }
-
-.footer {
+footer {
+margin-top: 40px;
 font-size: 14px;
-opacity: 0.8;
-margin-top: 20px;
+color: #4b5563;
 }
+a { color: #2563eb; }
+hr { margin: 40px 0; }
 </style>
 </head>
+
 <body>
+
 <div class="container">
-<h1>You're All Set ✅</h1>
+<div class="card">
+
+<h1>Final Expense Planning Assistance</h1>
 
 <p>
-A licensed agent will be calling you shortly to review your options.
+Thank you for visiting. This page is for individuals who requested help reviewing final expense coverage options.
 </p>
 
-<p class="highlight">
-Please keep your phone nearby and answer the call.
-</p>
-
-<p class="footer">
-No obligation. This call is to review the options you qualify for.
-</p>
+<div class="highlight">
+<strong>You are all set.</strong><br>
+A licensed agent will contact you shortly to review the options you may qualify for. Please keep your phone nearby and answer the call.
 </div>
+
+<h2>About This Service</h2>
+<p>
+We assist individuals in reviewing final expense coverage options designed to help families prepare for funeral, burial, cremation, and related expenses.
+</p>
+
+<h2>Contact Information</h2>
+<p>
+<strong>Business Name:</strong> Andre Armstrong<br>
+<strong>Phone:</strong> 901-483-2493<br>
+<strong>Address:</strong> 7435 Woodrail Cove, Memphis, TN
+</p>
+
+<h2>Messaging Notice</h2>
+<p>
+By interacting with our website chat widget or requesting assistance, you may receive customer care messages regarding your inquiry or service request. Message frequency may vary. Message and data rates may apply. Reply STOP to opt out or HELP for help.
+</p>
+
+<h2>Important Disclaimer</h2>
+<p>
+Coverage availability, eligibility, and pricing vary based on age, health, state, carrier guidelines, and underwriting factors. This website does not guarantee approval or specific rates.
+</p>
+
+<hr>
+
+<h2>Privacy Policy</h2>
+
+<p>
+Effective Date: May 1, 2026
+</p>
+
+<p>
+Andre Armstrong respects your privacy. This page explains how information may be collected, used, and protected when you interact with this website or request assistance.
+</p>
+
+<p>
+<strong>Information Collected:</strong> Information you provide through chat, phone, or service request such as name, phone number, and coverage interests.
+</p>
+
+<p>
+<strong>Use of Information:</strong> To respond to your inquiry, provide customer care, review options, and follow up regarding your request.
+</p>
+
+<p>
+<strong>Text Messaging:</strong> You may receive messages related to your request. Message frequency varies. Msg & data rates may apply. Reply STOP to opt out.
+</p>
+
+<p>
+<strong>Sharing:</strong> Information is not sold and is only used to provide services or comply with legal requirements.
+</p>
+
+<p>
+<strong>Security:</strong> Reasonable measures are used to protect your information.
+</p>
+
+<hr>
+
+<h2>Terms of Service</h2>
+
+<p>
+By using this website, you agree to the following terms.
+</p>
+
+<p>
+This website provides general information regarding final expense planning assistance and allows communication regarding your request.
+</p>
+
+<p>
+<strong>No Guarantee:</strong> Coverage, pricing, and eligibility are not guaranteed and depend on underwriting and other factors.
+</p>
+
+<p>
+<strong>Consent to Contact:</strong> By interacting with this site, you agree to be contacted by phone or text regarding your inquiry. Msg frequency varies. Msg & data rates may apply. Reply STOP to opt out.
+</p>
+
+<p>
+<strong>User Responsibility:</strong> You agree to provide accurate information when requesting assistance.
+</p>
+
+<p>
+<strong>Liability:</strong> This site is provided as-is without guarantees of specific results.
+</p>
+
+<footer>
+<p>© 2026 Andre Armstrong. All rights reserved.</p>
+</footer>
+
+</div>
+</div>
+
+<script src="https://widgets.leadconnectorhq.com/loader.js"
+data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js"
+data-widget-id="69f49bf55ec7226d29b90c2d"
+data-source="WEB_USER">
+</script>
+
 </body>
 </html>
